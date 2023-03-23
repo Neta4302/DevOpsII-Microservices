@@ -1,1 +1,16 @@
 # DevOpsII-Microservices
+
+Microservices:
+1. GET
+- Put http://127.0.0.1:5001/item in url box to see the list of items
+- Put http://127.0.0.1:5001/item/"number" to see the specific item
+
+2. POST
+1) Put http://127.0.0.1:5002/post in url box 
+2) Next click on "Body"
+3) Then tick on "form-data"
+4) Put the #key# words
+
+3. 
+
+4. 
