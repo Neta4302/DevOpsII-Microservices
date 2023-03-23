@@ -1,5 +1,5 @@
 # DevOpsII-Microservices
-"number" = put number
+* "number" = put number
 
 Microservices:
 1. GET
