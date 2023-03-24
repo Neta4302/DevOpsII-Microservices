@@ -4,8 +4,8 @@
 
 Microservices:
 1. GET
-- Put http://127.0.0.1:5001/item in url box to see the list of items
-- Put http://127.0.0.1:5001/item/"id" to see the specific item
+- Put http://127.0.0.1:5001/get in url box to see the list of items
+- Put http://127.0.0.1:5001/get/"id" to see the specific item
 
 2. POST
 1) Put http://127.0.0.1:5002/post in url box 
