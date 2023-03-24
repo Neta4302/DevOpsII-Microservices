@@ -1,7 +1,6 @@
 # DevOpsII-Microservices
-"id" = put id
-! I add id in "item" table so it will be alot easy to distingush between PRIMARY KEY and FOREIGN KEY !
-! id is PRIMARY KEY !
+<h3> I add "id" in "item" table so it will be alot easy to distingush between PRIMARY KEY and FOREIGN KEY </h3>
+<h3> "id" is PRIMARY KEY </h3>
 
 Microservices:
 1. GET
@@ -19,8 +18,8 @@ Microservices:
 1) Put http://127.0.0.1:5003/put/"id" in url box 
 2) Next click on "Body"
 3) Then tick on "form-data"
-4) Put the KEY words ("name", "price", "instock") and value in each KEY
+4) Put the KEY words ("name", "category", "price", "instock") and value in each KEY
 5) Check the result by GET again
 
 4. DELETE
-- Put http://127.0.0.1:5004/delete/"number" to delete the specific item
+- Put http://127.0.0.1:5004/delete/"id" to delete the specific item
