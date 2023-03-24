@@ -23,3 +23,4 @@ Microservices:
 
 4. DELETE
 - Put http://127.0.0.1:5004/delete/"id" to delete the specific item
+- Check the result by GET again
