@@ -1,6 +1,6 @@
 # DevOpsII-Microservices
-<h3> I add "id" in "item" table so it will be alot easy to distingush between PRIMARY KEY and FOREIGN KEY </h3>
-<h3> "id" is PRIMARY KEY </h3>
+<h4> I add "id" in "item" table so it will be alot easy to distingush between PRIMARY KEY and FOREIGN KEY </h4>
+<h4> "id" is PRIMARY KEY </h4>
 
 Microservices:
 1. GET
