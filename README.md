@@ -1,7 +1,7 @@
 # DevOpsII-Microservices
 "id" = put id
-! I add id in "item" table so it will be alot easy to distingush between PRIMARY KEY and FOREIGN KEY
-! id is PRIMARY KEY
+! I add id in "item" table so it will be alot easy to distingush between PRIMARY KEY and FOREIGN KEY !
+! id is PRIMARY KEY !
 
 Microservices:
 1. GET
